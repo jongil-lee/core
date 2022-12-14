@@ -1,4 +1,9 @@
-package hello.core.member;
+package hello.core;
+
+import hello.core.discount.member.Grade;
+import hello.core.discount.member.Member;
+import hello.core.discount.member.MemberService;
+import hello.core.discount.member.MemberServiceImpl;
 
 public class MemberApp {
 

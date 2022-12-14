@@ -1,5 +1,9 @@
 package hello.core.member;
 
+import hello.core.discount.member.Grade;
+import hello.core.discount.member.Member;
+import hello.core.discount.member.MemberService;
+import hello.core.discount.member.MemberServiceImpl;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
